@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1580320044 source:/home/osboxes/dev/oo-nn/backprop/main.cpp
+	<exception>
+	<string>
+	<iostream>
+	<SDL.h>
+
